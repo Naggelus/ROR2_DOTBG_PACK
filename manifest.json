@@ -1,6 +1,6 @@
 {
     "name": "DOTBG_Pack",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/blazingdrummer/BakedModpack",
     "description": "Just all the mods our group uses.",
     "dependencies": [
@@ -18,6 +18,6 @@
         "kinggrinyov-KingModUtilities-1.7.4",
         "DrBibop-VRAPI-1.0.0",
         "dgosling-dgoslings_Samus_Mod-1.5.2",
-        "Harb-DebugToolkit-3.4.2"
+        "IHarbHD-DebugToolkit-3.5.1"
     ]
   }
