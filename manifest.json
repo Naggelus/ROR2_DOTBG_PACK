@@ -1,0 +1,22 @@
+{
+    "name": "DOTBG_Pack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/blazingdrummer/BakedModpack",
+    "description": "Just all the mods our group uses.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.9",
+        "mistername-UnlockAll-1.1.1",
+        "RiskofThunder-HookGenPatcher-1.2.1",
+        "ValeX-StubbedShaderConverter-1.0.0",
+        "tristanmcpherson-R2API-3.0.59",
+        "ValeX-Manipulator-0.4.1",
+        "LuaFubuki-GaussMod-0.3.1",
+        "EnforcerGang-MinerUnearthed-1.5.4",
+        "EnforcerGang-Enforcer-3.1.2",
+        "EnigmaDev-EnigmaticThunder-0.1.5",
+        "XoXFaby-MMHOOK_Standalone-1.0.3",
+        "kinggrinyov-KingModUtilities-1.7.4",
+        "DrBibop-VRAPI-1.0.0",
+        "dgosling-dgoslings_Samus_Mod-1.5.2"
+    ]
+  }
